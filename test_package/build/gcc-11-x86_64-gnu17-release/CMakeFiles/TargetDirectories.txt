@@ -1,0 +1,3 @@
+/home/whalenpt/myproj/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/example.dir
+/home/whalenpt/myproj/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/edit_cache.dir
+/home/whalenpt/myproj/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/rebuild_cache.dir
