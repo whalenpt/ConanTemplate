@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(hello CXX VERSION 0.1.0)
+project(Hello CXX VERSION 0.1.0)
 
 option(BUILD_TESTS "BUILD TESTS WITH PROJECT" OFF)
 

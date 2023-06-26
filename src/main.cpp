@@ -1,4 +1,5 @@
-#include <hello/hello.h>
+
+#include "hello/hello.h"
 #include <vector>
 #include <string>
 
@@ -9,4 +10,6 @@ int main() {
     vec.push_back("test_package");
 
     hello_print_vector(vec);
+    return 0;
 }
+
