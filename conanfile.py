@@ -48,6 +48,10 @@ class helloRecipe(ConanFile):
         cmake.install()
 
     def package_info(self):
-        self.cpp_info.libs = ["hello"]
-
-
+        self.cpp_info.set_property("cmake_file_name", "Hello")
+        self.cpp_info.set_property("cmake_find_mode", "both")
+        self.cpp_info.set_property("pkg_config_name", "Hello")
+        self.cpp_info.components["first"].libs = ["first"]
+        self.cpp_info.components["second"].libs = ["second"]
+        self.cpp_info.components["first"].set_property("cmake_target_name", "Hello::first")
+        self.cpp_info.components["second"].set_property("cmake_target_name", "Hello::second")

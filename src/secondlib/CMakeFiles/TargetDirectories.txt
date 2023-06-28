@@ -1,0 +1,7 @@
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/second.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/edit_cache.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/rebuild_cache.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/list_install_components.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/install.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/install/local.dir
+/home/whalenpt/myproj/src/secondlib/CMakeFiles/install/strip.dir

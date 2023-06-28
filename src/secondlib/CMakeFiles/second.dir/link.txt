@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsecond.a CMakeFiles/second.dir/second.cpp.o
+/usr/bin/ranlib libsecond.a

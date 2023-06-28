@@ -1,1 +1,0 @@
-/usr/bin/c++ -m64 -O3 -DNDEBUG -m64 CMakeFiles/example.dir/src/example.cpp.o -o example   -L/home/whalenpt/.conan2/p/b/helloe1d263d8843af/p/lib  -Wl,-rpath,/home/whalenpt/.conan2/p/b/helloe1d263d8843af/p/lib /home/whalenpt/.conan2/p/b/helloe1d263d8843af/p/lib/libhello.a 
